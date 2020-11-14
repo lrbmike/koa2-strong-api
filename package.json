@@ -1,6 +1,6 @@
 {
   "name": "koa2-strong-api",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": {
     "name": "lrbmike",
     "email": "lrbmike@163.com"
@@ -19,9 +19,6 @@
     "koa-bodyparser": "^4.3.0",
     "koa-router": "^9.4.0",
     "koa-orm": "^3.1.0",
-    "koa-session2": "^2.2.10",
-    "koa-static": "^5.0.0",
-    "koa-ejs": "^4.3.0",
     "mysql2": "^2.2.5",
     "formidable": "^1.2.2",
     "log4js": "^6.3.0",
