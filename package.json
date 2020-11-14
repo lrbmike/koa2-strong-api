@@ -1,0 +1,48 @@
+{
+  "name": "koa2-strong-api",
+  "version": "0.0.1",
+  "author": {
+    "name": "lrbmike",
+    "email": "lrbmike@163.com"
+  },
+  "description": "The framework integrates many commonly used modules, and based on Koa2",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lrbmike/koa2-strong.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^9.4.0",
+    "koa-orm": "^3.1.0",
+    "koa-session2": "^2.2.10",
+    "koa-static": "^5.0.0",
+    "koa-ejs": "^4.3.0",
+    "mysql2": "^2.2.5",
+    "formidable": "^1.2.2",
+    "log4js": "^6.3.0",
+    "promise": "^8.1.0",
+    "koa-jwt": "^4.0.0",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "koa2",
+    "bodyparser",
+    "router",
+    "orm",
+    "ejs",
+    "formidable",
+    "sequelize"
+  ],
+  "license": "MIT"
+}
