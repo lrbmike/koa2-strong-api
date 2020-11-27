@@ -1,6 +1,6 @@
 {
   "name": "koa2-strong-api",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": {
     "name": "lrbmike",
     "email": "lrbmike@163.com"
@@ -24,7 +24,8 @@
     "log4js": "^6.3.0",
     "promise": "^8.1.0",
     "koa-jwt": "^4.0.0",
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^8.5.1",
+    "koa2-cors": "^2.0.6"
   },
   "engines": {
     "node": ">= 8.0.0"
